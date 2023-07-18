@@ -1,2 +1,2 @@
-# githup
-Small Python project to push code to GitHub automatically
+# GithUp
+Easily upload your files on GitHub using Python
