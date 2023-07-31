@@ -29,6 +29,7 @@ import githup as gp
 
 gp.init_repo(github_repository_url, folder_path="local")
 ```
+Notice that if you want to remove the folder_path="local" from your directory you can because this is the default parameter so it won't have any impact.
 If you want to include a README.md file during initialization, you can add the add_readme parameter, like this:
 ```python
 import githup as gp
